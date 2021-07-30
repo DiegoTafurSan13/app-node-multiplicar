@@ -1,0 +1,26 @@
+{
+  "name": "multiplicar",
+  "version": "1.0.0",
+  "description": "this is app multiplication basic",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev":"nodemon src/app.js"
+  },
+  "keywords": [
+    "multipicar",
+    "multiplicador",
+    "tablas",
+    "app",
+    "nodejs"
+  ],
+  "author": "DiegoTS",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
